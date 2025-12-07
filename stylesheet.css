@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffba;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid green;
+}
+
+img {
+    width: 100%;
+}
